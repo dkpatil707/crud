@@ -1,0 +1,46 @@
+{
+  "registeruser": [
+    {
+      "email": "",
+      "password": "",
+      "prof_pic": "",
+      "id": "1"
+    },
+    {
+      "id": "2e0a",
+      "email": "sudarshanp732000@gmail.com",
+      "password": "darshan",
+      "prof_pic": "https://cdn.vectorstock.com/i/1000x1000/05/55/mens-wear-logo-vector-34250555.webp"
+    },
+    {
+      "id": "cb6c",
+      "email": "sudarshan732000@gmail.com",
+      "password": "12345678",
+      "prof_pic": "https://img.freepik.com/premium-photo/black-white-illustration-bearded-man-with-beard-generative-ai_771703-49229.jpg"
+    },
+    {
+      "id": "831c",
+      "email": "Abc@gmail.com",
+      "password": "123456",
+      "prof_pic": "https://cdn.vectorstock.com/i/1000x1000/05/55/mens-wear-logo-vector-34250555.webp"
+    },
+    {
+      "id": "8bca",
+      "email": "sudarshanp732000@gmail.com",
+      "password": "123456",
+      "prof_pic": "https://cdn.vectorstock.com/i/1000x1000/05/55/mens-wear-logo-vector-34250555.webp"
+    },
+    {
+      "id": "8073",
+      "email": "sudarshanpP732000@gmail.com",
+      "password": "123456",
+      "prof_pic": "https://cdn.vectorstock.com/i/1000x1000/05/55/mens-wear-logo-vector-34250555.webp"
+    },
+    {
+      "id": "5cac",
+      "email": "darshan@gmail.com",
+      "password": "123456",
+      "prof_pic": "https://img.freepik.com/premium-photo/black-white-illustration-bearded-man-with-beard-generative-ai_771703-49229.jpg"
+    }
+  ]
+}

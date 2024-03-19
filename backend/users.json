@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Sudarshan K Patil",
+      "salary": "35000",
+      "company": "Infotech",
+      "id": "5a17"
+    },
+    {
+      "id": "34b3",
+      "name": "Milind",
+      "salary": "35000",
+      "company": "Alfa"
+    },
+    {
+      "id": "e50f",
+      "name": "Harshal Patil",
+      "salary": "35000",
+      "company": "Tcs"
+    },
+    {
+      "id": "9f11",
+      "name": "Madhuri",
+      "salary": "350000",
+      "company": "Texo"
+    }
+  ]
+}
